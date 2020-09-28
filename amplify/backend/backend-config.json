@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "staffingsystemb9b9e612": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
